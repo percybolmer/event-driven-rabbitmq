@@ -1,7 +1,9 @@
 # An repository showcasing Event Driven Architecture (EDA)
 This repository is an example of how to use EDA.
 
-There will soon be a link here to an article that explains everything.
+You can read about this repository and how it works in 
+
+https://programmingpercy.tech/blog/event-driven-architecture-using-rabbitmq/
 
 ## Running it
 
